@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction App  
 
-Welcome to the **Diabetes Prediction App**, a web-based machine learning application that predicts the likelihood of diabetes based on user-provided inputs such as **Glucose Level, Blood Pressure, Insulin, BMI, and Age**. This project utilizes a **Machine Learning (Decision Tree Classifier)** to provide accurate predictions.  
+Welcome to the **Diabetes Prediction App**, a web-based machine learning application that predicts the likelihood of diabetes based on user-provided inputs such as **Glucose Level, Blood Pressure, Insulin, BMI, and Age**. This project utilizes a **Machine Learning (LogisticRegression)** to provide accurate predictions.  
 
 ![Diabetes Prediction App](images/app%20-%20Google%20Chrome%202_19_2025%202_49_23%20PM.png)
 
